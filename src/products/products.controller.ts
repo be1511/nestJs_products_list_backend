@@ -34,7 +34,7 @@ export class ProductsController {
     } catch(error) {
       return ( {
         mgs_id : -1,
-        msg : 'error on fetch data'
+        msg : 'error on fetching data'
       }
       )
     }
