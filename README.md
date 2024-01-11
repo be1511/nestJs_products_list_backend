@@ -2,10 +2,10 @@
 I have host my database on freemysqlhosting.net.
 No need to change config file for api testing.
 
-Server: sql12.freemysqlhosting.net
-Name: sql12673405
-Username: sql12673405
-Password: kpGBxd4Tyk
+Server: sql.freedb.tech
+Name: freedb_mondal
+Username: freedb_mondal
+Password: 2UDbzzEKN4#nFVM
 Port number: 3306
 
 
